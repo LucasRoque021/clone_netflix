@@ -14,7 +14,7 @@
 
 body{
   background-color: var(--preta);
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Arial', Times, serif;
   color: white;
 }
 
@@ -93,6 +93,10 @@ header nav a:hover{
 .botao i{
   margin-right: 8px;
   
+}
+
+.carrosel-filmes{
+  margin-top: 5px;
 }
 
 .box-filme{
